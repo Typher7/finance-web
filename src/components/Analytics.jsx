@@ -2,7 +2,9 @@ import React from 'react'
 
 const Analytics = () => {
   return (
-    <div>Analytics</div>
+    <div className='w-full bg-white'>
+
+    </div>
   )
 }
 
